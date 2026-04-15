@@ -1,16 +1,12 @@
+
+
 # 🎬 MovieFinder
 
-O **MovieFinder** é um projeto simples criado para organizar e apresentar informações sobre filmes, facilitando o aprendizado de estruturação de projetos e documentação.
+O MovieFinder é um projeto simples que simula a exploração de filmes, permitindo apresentar informações organizadas sobre conteúdos cinematográficos.
 
-## 🎯 Objetivo
-Demonstrar como criar e organizar um projeto com documentação clara usando Markdown.
+## 📌 Objetivo
+Demonstrar estruturação de projeto e documentação em Markdown.
 
-## 🍿 Ideia do projeto
-O sistema simula uma plataforma onde o usuário pode explorar filmes, gêneros e recomendações.
-
-## 📁 Estrutura
-- docs/README.md → documentação do projeto
-- registros.txt → logs e registros do sistema
-- script.sh → script executável
-- .segredo → arquivo oculto do sistema
+## 🍿 Ideia
+Uma aplicação que poderia futuramente buscar filmes, gêneros e recomendações.
 
