@@ -1,12 +1,6 @@
 
 
-# 🎬 MovieFinder
+# RandomCats
 
-O MovieFinder é um projeto simples que simula a exploração de filmes, permitindo apresentar informações organizadas sobre conteúdos cinematográficos.
-
-## 📌 Objetivo
-Demonstrar estruturação de projeto e documentação em Markdown.
-
-## 🍿 Ideia
-Uma aplicação que poderia futuramente buscar filmes, gêneros e recomendações.
+Uma página web que obtém uma imagem aleatória de gatinhos de uma API pública, disponível na internet, e a apresenta na página, sempre que a página carrega.
 
